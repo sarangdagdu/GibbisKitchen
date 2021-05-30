@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gibbi\'s Kitchen</string>
+    <string name="address">177A, Bleecker Street.</string>
+    <string name="rating">4.8 stars\nRated highly for hygiene. </string>
+    <string name="cuisines">Appetizers, Fast Food and Confectionery.</string>
+    <string name="tooltip">Soon avaliable for orders.</string>
+</resources>
